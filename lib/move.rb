@@ -12,6 +12,7 @@ def input_to_index(string)
 end
 def move(board, position, player = "X")
 end
+board[0]
 
  
 
